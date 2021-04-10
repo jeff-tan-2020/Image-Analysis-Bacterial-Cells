@@ -3,8 +3,9 @@ Python GUI implementing OpenCV for image analysis
 
 ## This GUI was created in a project to measure the length and width of bacterial cells to study their growth over time. 
 
-Running this GUI allows the user to use their mouse to select a region of interest from a '.tif' image.
-OpenCV is implemented to apply a gaussian blur and the ellipse fitting method is used to measure the length and width of a circular object in this region.
+- Running this GUI allows the user to use their mouse to select a region of interest from a '.tif' image
+- A threshold value is applied to the region of interest to reduce noise
+- OpenCV is implemented to apply a gaussian blur and the ellipse fitting method is used to measure the length and width of a circular object in this region
 
 
 
