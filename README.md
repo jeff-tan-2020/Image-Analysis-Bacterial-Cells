@@ -1,5 +1,5 @@
 # Image-Analysis-Bacterial-Cells
-Python GUI implementing OpenCV for image analysis
+Python GUI implemented in Jupytr Notebooks in Anaconda
 
 ## This GUI was created in a project to measure the length and width of bacterial cells to study their growth over time. 
 
